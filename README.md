@@ -1,6 +1,6 @@
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝙻𝚄𝙽𝙰-𝙱𝙾𝚃𝚂!;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽!)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+ડꪜ-𝙱𝙾𝚃𝚂!;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+🆂🆄🆁🅹🅸🆃🅷!)
 <p align="center">
-  <img src="https://telegra.ph/file/0891ff314526b2e655712.jpg" alt="Alone">
+  <img src="https://telegra.ph/file/b232edd7413b5682947a8.jpg" alt="ડꪜ">
 </p>
 ## Features
 
@@ -44,7 +44,7 @@ You can deploy this bot anywhere.
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/BalamuruganDV/ALONE">
+<a href="https://heroku.com/deploy?template=https://github.com/tamilthalaiva/5">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
