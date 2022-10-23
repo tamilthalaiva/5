@@ -1,7 +1,7 @@
 {
-    "name": "Alone",
+    "name": "ડꪜ",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
-    "logo": "https://telegra.ph/file/0891ff314526b2e655712.jpg",
+    "logo": "https://telegra.ph/file/b232edd7413b5682947a8.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/BalamuruganDV/ALONE",
-    "repository": "https://github.com/BalamuruganDV/ALONE",
+    "repository": "https://github.com/tamilthalaiva/5",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
